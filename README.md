@@ -11,5 +11,5 @@ POST,PUT,DELETE, GET exemplifying
 
 and running these fastapi's light weight libraries on webserver "uvicorn"
 
-Launch application at 127.0.0.1/8000
+Launch the application at 127.0.0.1/8000 and find the
 API documentation : 127.0.0.1/8000/docs
