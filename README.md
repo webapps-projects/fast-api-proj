@@ -1,7 +1,7 @@
 # fast-api-proj
 
 Demo on quick way of building FastAPIs(https://fastapi.tiangolo.com/), the high performance web framework, with Python.
-This mini project shows the creating end points for CRUD operations on Books data,
+This mini project shows creating the end points for CRUD operations on Books data,
 POST,PUT,DELETE, GET exemplifying 
 1. Path Parameters,Query Parameters,
 2. Combining Path and Query Parameters, 
